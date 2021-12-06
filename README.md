@@ -27,7 +27,9 @@ https://www.youtube.com/watch?v=T9OrimWuQIE
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsen-tabasi-4a77a237/)
-[![Youtube](https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white)](https://twitter.com/)
+[![Youtube](https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC94ZtlP-isac_FrJJNEa9DA)
+[![ArtStation](https://img.shields.io/badge/ARTSTATION-black?style=for-the-badge&logo=artstation&logoColor=blue)](https://mohsen-t.artstation.com)
+[![Orbolt](https://img.shields.io/badge/-Orbolt-orange)](https://www.orbolt.com/user/144667532)
 
 
 
