@@ -1,4 +1,6 @@
 
+![Material](https://raw.githubusercontent.com/proceduralit/UE4-Bluca/main/ReadME_Data/Bluca.gif)
+
 # Bluca
 
 I have tried to generate the transformation pattern effect of Pixar's animation, Luca, in UE4.
@@ -23,7 +25,12 @@ https://www.shadertoy.com/view/lss3Df
 https://www.youtube.com/watch?v=T9OrimWuQIE
 
 
-## Authors
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsen-tabasi-4a77a237/)
+[![Youtube](https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white)](https://twitter.com/)
 
-- [@MohsenTabasi](https://github.com/proceduralit)
+
+
+## 
+I have used https://readme.so/ for generating this README
 
